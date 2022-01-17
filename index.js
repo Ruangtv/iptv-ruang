@@ -19,7 +19,7 @@ app
         console.log(`Server Start at port ${port}`)
         console.log(
           "URL Playlist:",
-          `${domain || `http://localhost:${port}`}/playlist.m3u`
+          `${domain || `http://localhost:${port}`}/plruangtv.m3u`
         )
       })
     }
