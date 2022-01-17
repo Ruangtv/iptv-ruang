@@ -1,5 +1,5 @@
 {
-  "name": "iptv-id",
+  "name": "iptv-ruang",
   "version": "1.4.1",
   "description": "IPTV Service",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mwafa/iptv-id.git"
+    "url": "git+https://github.com/Ruangtv/iptv-ruang"
   },
   "keywords": [],
   "author": "",
