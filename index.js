@@ -3,7 +3,7 @@ const app = require("yargs")
 const server = require("./lib/app")
 
 app
-  .scriptName("iptv-id")
+  .scriptName("iptv-ruang")
   .command(
     "start [port] [domain]",
     "Start service",
